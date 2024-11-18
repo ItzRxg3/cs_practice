@@ -1,0 +1,6 @@
+D:\Programming\c#\pr_1_\bin\Debug\pr_1_.exe
+D:\Programming\c#\pr_1_\bin\Debug\pr_1_.pdb
+D:\Programming\c#\pr_1_\obj\Debug\pr_1_.csproj.AssemblyReference.cache
+D:\Programming\c#\pr_1_\obj\Debug\pr_1_.csproj.CoreCompileInputs.cache
+D:\Programming\c#\pr_1_\obj\Debug\pr_1_.exe
+D:\Programming\c#\pr_1_\obj\Debug\pr_1_.pdb
